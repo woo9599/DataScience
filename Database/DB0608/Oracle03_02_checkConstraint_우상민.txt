@@ -1,0 +1,26 @@
+SQL> CREATE TABLE sawon(sabun number(3),
+  2  saname varchar2(10),
+  3  deptno number(3),
+  4  sajob varchar2(10),
+  5  sapay number(10),
+  6  sahire date,
+  7  sasex varchar2(6),
+  8  samgr number(3),
+  9  constraint sawon_sasex_ck check(sasex in('남자','여자'))
+ 10  );
+
+Table created.
+
+SQL> insert into sawon values('2','한국남','20','부장','3000','1988/11/01','남자','1');
+
+1 row created.
+
+SQL> insert into sawon values('2','한국남','20','부장','3000','1988/11/01','여자','1');
+
+1 row created.
+
+SQL> insert into sawon values('2','한국남','20','부장','3000','1988/11/01','중성','1');
+insert into sawon values('2','한국남','20','부장','3000','1988/11/01','중성','1')
+*
+ERROR at line 1:
+ORA-02290: check constraint (SCOTT.SAWON_SASEX_CK) violated
