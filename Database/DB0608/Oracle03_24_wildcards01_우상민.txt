@@ -1,0 +1,35 @@
+2019-12-07  오후 06:14    <DIR>          System
+2019-12-07  오후 06:12               219 system.ini
+2021-06-07  오전 09:56    <DIR>          System32
+2019-12-08  오전 12:00    <DIR>          SystemApps
+2021-05-17  오후 08:03    <DIR>          SystemResources
+2021-05-17  오후 08:03    <DIR>          SysWOW64
+               1개 파일                 219 바이트
+               5개 디렉터리  179,606,470,656 바이트 남음
+
+C:\Windows>dir ?e*
+ C 드라이브의 볼륨에는 이름이 없습니다.
+ 볼륨 일련 번호: C073-A894
+
+ C:\Windows 디렉터리
+
+2021-05-15  오후 03:30    <DIR>          debug
+2019-12-07  오후 11:56    <DIR>          Help
+2021-05-14  오전 12:15         1,076,736 HelpPane.exe
+2019-12-07  오후 06:14    <DIR>          Performance
+2021-05-14  오전 12:16           370,176 regedit.exe
+2019-12-07  오후 06:31    <DIR>          Registration
+2019-12-08  오전 12:00    <DIR>          RemotePackages
+2019-12-07  오후 06:14    <DIR>          rescache
+2021-05-13  오후 09:25    <DIR>          Resources
+2019-12-08  오전 12:00    <DIR>          security
+2020-11-18  오후 11:47    <DIR>          ServiceProfiles
+2021-05-11  오후 06:14    <DIR>          ServiceState
+2021-05-14  오전 09:57    <DIR>          servicing
+2019-12-07  오후 06:18    <DIR>          Setup
+2021-05-30  오후 08:03             1,697 setupact.log
+2021-05-11  오후 06:13                 0 setuperr.log
+2021-06-08  오후 12:59    <DIR>          Temp
+2019-12-07  오후 06:31    <DIR>          Web
+               4개 파일           1,448,609 바이트
+              14개 디렉터리  179,606,470,656 바이트 남음

@@ -1,0 +1,29 @@
+SQL> select initcap('i am a boy') from dual;
+
+INITCAP('IAMABOY')
+--------------------
+I Am A Boy
+
+SQL> select lower('KOREA') from dual;
+
+LOWER('KOR
+----------
+korea
+
+SQL> select upper('koera') from dual;
+
+UPPER('KOE
+----------
+KOERA
+
+SQL> select initcap('i am a boy') from dual;
+
+INITCAP('IAMABOY')
+--------------------
+I Am A Boy
+
+SQL> select length('korea') from dual;
+
+LENGTH('KOREA')
+---------------
+              5
