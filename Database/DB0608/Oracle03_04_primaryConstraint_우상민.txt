@@ -1,0 +1,5 @@
+SQL> not null insert into dept(dname)values('총무부');
+SP2-0734: unknown command beginning "not null i..." - rest of line ignored.
+SQL> unique  insert into dept(deptno)values('10');
+SP2-0734: unknown command beginning "unique  in..." - rest of line ignored.
+SQL> insert into dept(deptno)values('10');
