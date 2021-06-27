@@ -1,0 +1,27 @@
+SQL> DELETE from membert01 where mem_id ='orange';
+
+1 row deleted.
+
+SQL> /
+
+0 rows deleted.
+
+SQL> run
+  1* DELETE from membert01 where mem_id ='orange'
+
+0 rows deleted.
+
+SQL> select * from memberT01;
+
+MEM_NAME                                 MEM_ID                                   MEM_PWD                                  MEM_EMAIL                                                                    
+---------------------------------------- ---------------------------------------- ---------------------------------------- ------------------------------------------------------------                 
+MEM_PHONE                                MEM_ADDR                                                                                                                                                       
+---------------------------------------- ------------------------------------------------------------                                                                                                   
+¿À·»Áö                                   orange2                                  1234                                     orange@test.com                                                              
+044                                      È«ÀÍ´ëÇÐ±³                                                                                                                                                     
+                                                                                                                                                                                                        
+¿À·»Áö                                   orange3                                  1234                                     orange@test.com                                                              
+044                                      È«ÀÍ´ëÇÐ±³                                                                                                                                                     
+                                                                                                                                                                                                        
+
+SQL> spool off

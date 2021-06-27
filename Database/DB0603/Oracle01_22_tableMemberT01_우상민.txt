@@ -1,0 +1,13 @@
+SQL> start C:\oracleLI\tablemember.sql
+
+Table dropped.
+
+
+Table created.
+
+
+TNAME                                                        TABTYPE         CLUSTERID                                                                                                                  
+------------------------------------------------------------ -------------- ----------                                                                                                                  
+MEMBERT01                                                    TABLE                                                                                                                                      
+
+SQL> spool off

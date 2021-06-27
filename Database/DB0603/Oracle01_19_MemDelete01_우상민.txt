@@ -1,0 +1,17 @@
+SQL> delete from member01;
+delete from member01
+            *
+ERROR at line 1:
+ORA-00942: table or view does not exist 
+
+
+SQL> delete from membert01;
+
+0 rows deleted.
+
+SQL> select * from membert01;
+
+no rows selected
+
+SQL> 
+SQL> spool off

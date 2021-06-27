@@ -1,0 +1,19 @@
+show pagesize
+show linesize
+
+sqlplus 계정/pwd
+
+--------------------------
+
+cl scr
+---
+접속상태에서 계정변경 
+
+conn 계정
+pwd
+
+conn 계정 / ora11
+
+conn /as sysdba 
+
+show user 

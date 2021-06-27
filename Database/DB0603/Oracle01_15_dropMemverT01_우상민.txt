@@ -1,0 +1,21 @@
+SQL> drop table MemberT01;
+
+Table dropped.
+
+SQL> desc MemberT01
+ERROR:
+ORA-04043: object MemberT01 does not exist 
+
+
+SQL> select * from tpb;
+select * from tpb
+              *
+ERROR at line 1:
+ORA-00942: table or view does not exist 
+
+
+SQL> select * from tab;
+
+no rows selected
+
+SQL> spool off
