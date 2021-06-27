@@ -1,0 +1,8 @@
+SQL> select distinct mem_addr from memberT01;
+
+MEM_ADDR                                                                                            
+------------------------------------------------------------                                        
+재능대학교                                                                                          
+홍익대학교                                                                                          
+
+SQL> spool off

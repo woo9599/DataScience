@@ -1,0 +1,17 @@
+SQL> select 10+3 mem_addr from memberT01;
+
+  MEM_ADDR                                                                                          
+----------                                                                                          
+        13                                                                                          
+        13                                                                                          
+        13                                                                                          
+        13                                                                                          
+        13                                                                                          
+
+SQL> select 10+3 mem_addr from dual;
+
+  MEM_ADDR                                                                                          
+----------                                                                                          
+        13                                                                                          
+
+SQL> spool off

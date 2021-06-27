@@ -1,0 +1,28 @@
+SQL> drop table dept;
+
+Table dropped.
+
+SQL> CREATE TABLE dept(deptno number(3),
+  2  dname varchar2(10),
+  3  loc varchar2(10));
+
+Table created.
+
+SQL> insert into dept(dname, loc) values('총무부', '서울');
+
+1 row created.
+
+SQL> selec * from dept;
+SP2-0734: unknown command beginning "selec * fr..." - rest of line ignored.
+SQL> desc dept;
+ Name                                                  Null?    Type
+ ----------------------------------------------------- -------- ------------------------------------
+ DEPTNO                                                         NUMBER(3)
+ DNAME                                                          VARCHAR2(10)
+ LOC                                                            VARCHAR2(10)
+
+SQL> select * from dept;
+
+    DEPTNO DNAME                LOC
+---------- -------------------- --------------------
+           총무부               서울
