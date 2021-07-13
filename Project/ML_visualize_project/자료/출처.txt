@@ -1,0 +1,33 @@
+ 백화점 입점 요건 -https://news.joins.com/article/3952939
+
+1) 17개 시도별 대형소매점 판매액지수(2015=100.0) 코시스
+
+세종시 백화점 관련 기사
+http://www.businesspost.co.kr/BP?command=article_view&num=152509
+http://www.joongdo.co.kr/web/view.php?key=20171204010000863
+
+
+-백화점 입점요건
+https://news.joins.com/article/3952939
+
+-세종시 백화점 관련 기사
+http://www.businesspost.co.kr/BP?command=article_view&num=152509
+http://www.joongdo.co.kr/web/view.php?key=20171204010000863
+http://www.daejonilbo.com/news/newsitem.asp?pk_no=1401829
+
+
+-데이터
+https://kosis.kr/
+17개 시도별 대형소매점 판매액 지수
+시도별1인당지역내총생산 지역총소득개인소득
+세종특별자치시·산업·조직 형태별 사업체수종사자수
+시도별_소매판매액지수
+인구 총조사인구율
+행정구역시도별_경제활동인구
+인구증가율
+
+세종시경제활동인구
+https://www.sejong.go.kr/stat/twdcvln/anals/ecnmy/form.do?key=1911210355934
+
+지도 좌표
+https://www.google.co.kr/maps/@37.053745,125.6553969,5z?hl=ko
